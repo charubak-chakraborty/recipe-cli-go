@@ -108,7 +108,7 @@ Solution:
 
 __Setup and Run Instructions for the solution__:
 
-1. Clone the git repository, and use dev branch:
+1. Clone the git repository, and use `dev` branch:
     `https://github.com/hellofreshdevtests/charubak-chakraborty-recipe-count-test-2020`
 
 2. Run the build command with make tool:
@@ -120,3 +120,8 @@ __Setup and Run Instructions for the solution__:
     `make run-recipe-tool searchby="Cheese,Steak" postcode="10120" deliverytime="11AM - 1PM"`
 
     searchby, postcode and deliverytime is mandatory for the tool to run.
+
+__Solution Document__:
+
+    Solution Document is available in the below link:
+    [Recipe CLI Tool Solution Document](https://docs.google.com/document/d/19iLeeJeGiNXDMjmZzVjQL2YKW-H-lQZXGZFnhnqB9y0/edit?usp=sharing)
