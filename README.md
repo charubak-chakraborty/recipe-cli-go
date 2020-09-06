@@ -102,3 +102,20 @@ __General criteria from most important to less important__:
 4. Tests are showcased (_no need to cover everything_).
 5. Supporting notes on taken decisions and further clarifications are welcome.
 
+
+__Setup and Run Instructions for the solution__:
+
+1. Clone the git repository, and use dev branch:
+    https://github.com/hellofreshdevtests/charubak-chakraborty-recipe-count-test-2020
+
+2. Run the build command with make tool:
+```
+    make build-recipe-tool filename="/Users/chachakr/Desktop/test-recipe/hf_test_calculation_fixtures.json"
+```
+    Custom fixture file path is mandatory for the build process to run.
+
+3. Run the CLI tool with mandatory search parameters:
+```
+    make run-recipe-tool searchby="Cheese,Steak" postcode="10120" deliverytime="11AM - 1PM"
+```
+    searchby, postcode and deliverytime is mandatory for the tool to run.
