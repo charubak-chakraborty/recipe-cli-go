@@ -123,5 +123,5 @@ __Setup and Run Instructions for the solution__:
 
 __Solution Document__:
 
-    Solution Document is available in the below link:
-    [Recipe CLI Tool Solution Document](https://docs.google.com/document/d/19iLeeJeGiNXDMjmZzVjQL2YKW-H-lQZXGZFnhnqB9y0/edit?usp=sharing)
+Solution Document is available in the below link:
+    `https://docs.google.com/document/d/19iLeeJeGiNXDMjmZzVjQL2YKW-H-lQZXGZFnhnqB9y0/edit?usp=sharing`
