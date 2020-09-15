@@ -14,17 +14,17 @@ import (
 type parser struct{}
 
 var (
-	//hashmap to track recipe and postcode counts
+	//Hashmap to track recipe and postcode counts
 	recipeMap   map[string]int
 	postcodeMap map[string]int
 
-	//input filepath, search parameters
+	//Input filepath, search parameters
 	filePath             *string
 	searchByRecipeTag    *string
 	searchByPostCode     *string
 	searchByDeliveryTime *string
 
-	//count to track feasible deliveries in the searched postcode
+	//Count to track feasible deliveries in the searched postcode
 	feasibleDeliveryCount int
 )
 

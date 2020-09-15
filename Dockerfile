@@ -8,6 +8,7 @@ COPY . /app
 
 ARG filename
 
+# COPY fixture
 COPY ${filename} /app/temp/input.json
 
 WORKDIR /app

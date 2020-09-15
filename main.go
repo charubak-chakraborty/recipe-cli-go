@@ -9,7 +9,7 @@ import (
 
 func main() {
 
-	//take input from env
+	//take input from ENV
 	searchBy := os.Getenv("searchby")
 	searchByPostCode := os.Getenv("postcode")
 	searchByDeliveryTime := os.Getenv("deliverytime")

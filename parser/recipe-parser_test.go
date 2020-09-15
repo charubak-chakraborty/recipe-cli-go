@@ -59,7 +59,7 @@ func TestParseAndGenerate(t *testing.T) {
 		filepath             string = "../input.json"
 		searchbyrecipetag    string = "Potato"
 		searchbypostcode     string = "10210"
-		searchbydeliverytime string = "1AM - 10PM"
+		searchbydeliverytime string = "1AM - 11PM"
 	)
 
 	parser := NewParser()
